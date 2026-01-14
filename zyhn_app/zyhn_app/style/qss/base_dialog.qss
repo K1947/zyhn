@@ -1,0 +1,55 @@
+QWidget#titleBar {
+    background: #253242;
+    border-bottom: 1px solid #3A495D;
+}
+
+QDialog#baseDlg {
+    background-color: #1D2836;
+    border: 1px solid #2D3B4F;
+}
+
+QWidget#bottomBar {
+    background-color: #1D2836;
+    border-left: 1px solid #2D3B4F;
+    border-right: 1px solid #2D3B4F;
+    border-bottom: 1px solid #2D3B4F;
+}
+
+QWidget#titleBar > QLabel#label_title_text {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+}
+
+QWidget#titleBar > QPushButton {
+    min-width: 48px;
+    min-height: 48px;
+    max-width: 48px;
+    max-height: 48px;
+    border:none;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+QPushButton#btn_close {
+    background-image: url(:/zyhn_app/style/img/close_win.png);
+}
+
+QPushButton#btn_close:hover {
+    background-image: url(:/zyhn_app/style/img/close_win.png);
+    background-color: #E81123;
+}
+
+
+QPushButton#btn_max[max=false] {
+    background-image: url(:/zyhn_app/style/img/restore_win.png);
+}
+
+QPushButton#btn_max[max=true] {
+    background-image: url(:/zyhn_app/style/img/max_win.png);
+}
+
+QPushButton#btn_min {
+    background-image: url(:/zyhn_app/style/img/min_win.png);
+}

@@ -1,0 +1,160 @@
+QWidget#left_panel {
+    max-width: 110px;
+    background-color: #253242;
+}
+
+QWidget#wgt_spc[checked="false"],
+QWidget#wgt_control[checked="false"],
+QWidget#wgt_vision[checked="false"],
+QWidget#wgt_communate[checked="false"],
+QWidget#wgt_mes[checked="false"]
+{
+    background-color: transparent;
+    border: none;
+    min-height: 50px;
+    max-height: 50px;
+}
+
+QWidget#wgt_spc[checked="false"] QLabel#label_spc_icon,
+QWidget#wgt_control[checked="false"] QLabel#label_control_icon,
+QWidget#wgt_vision[checked="false"] QLabel#label_vision_icon,
+QWidget#wgt_communate[checked="false"] QLabel#label_communate_icon,
+QWidget#wgt_mes[checked="false"] QLabel#label_mes_icon {
+    background-repeat: no repeat;
+    background-position: center;
+    min-width:24px;
+    min-height:24px; 
+}
+
+QWidget#wgt_spc[checked="false"] QLabel#label_spc_icon {
+    background-image:url(:/zyhn_app/style/img/spc.png);
+}
+
+QWidget#wgt_control[checked="false"] QLabel#label_control_icon {
+    background-image:url(:/zyhn_app/style/img/control.png);
+}
+
+QWidget#wgt_vision[checked="false"] QLabel#label_vision_icon {
+    background-image:url(:/zyhn_app/style/img/camera.png);
+}
+
+QWidget#wgt_communate[checked="false"] QLabel#label_communate_icon {
+    background-image:url(:/zyhn_app/style/img/communate.png);
+}
+
+QWidget#wgt_mes[checked="false"] QLabel#label_mes_icon {
+    background-image:url(:/zyhn_app/style/img/mes.png);
+}
+
+QLabel#label_spc_name,
+QLabel#label_control_name,   
+QLabel#label_vision_name,
+QLabel#label_communate_name,
+QLabel#label_mes_name {
+    font-size: 16px;
+    font-weight:bold;
+}
+
+QWidget#wgt_spc[checked="true"],   
+QWidget#wgt_control[checked="true"],
+QWidget#wgt_vision[checked="true"],
+QWidget#wgt_communate[checked="true"],
+QWidget#wgt_mes[checked="true"] {
+    background-color: #29414d;
+    border-left: 5px solid #4EC9B0;
+    min-height: 50px;
+    max-height: 50px;
+}
+
+QWidget#wgt_spc[checked="true"] QLabel#label_spc_icon,
+QWidget#wgt_control[checked="true"] QLabel#label_control_icon,
+QWidget#wgt_vision[checked="true"] QLabel#label_vision_icon,
+QWidget#wgt_communate[checked="true"] QLabel#label_communate_icon,
+QWidget#wgt_mes[checked="true"] QLabel#label_mes_icon {
+    background-repeat: no repeat;
+    background-position: center;
+    min-width:24px;
+    min-height:24px; 
+}
+
+QWidget#wgt_spc[checked="true"] QLabel#label_spc_icon {
+    background-image:url(:/zyhn_app/style/img/spc_select.png) !important;
+}
+
+QWidget#wgt_control[checked="true"] QLabel#label_control_icon {
+    background-image:url(:/zyhn_app/style/img/control_select.png) !important;
+}
+
+QWidget#wgt_vision[checked="true"] QLabel#label_vision_icon {
+    background-image:url(:/zyhn_app/style/img/camera_select.png) !important;
+}
+
+QWidget#wgt_communate[checked="true"] QLabel#label_communate_icon {
+    background-image:url(:/zyhn_app/style/img/communate_select.png) !important;
+}
+
+QWidget#wgt_mes[checked="true"] QLabel#label_mes_icon {
+    background-image:url(:/zyhn_app/style/img/mes_select.png) !important;
+}
+
+QWidget#wgt_spc[checked="true"] QLabel#label_spc_name,
+QWidget#wgt_control[checked="true"] QLabel#label_control_name,
+QWidget#wgt_vision[checked="true"] QLabel#label_vision_name,
+QWidget#wgt_communate[checked="true"] QLabel#label_communate_name,
+QWidget#wgt_mes[checked="true"] QLabel#label_mes_name {
+    color: #4EC9B0;
+    font-size: 16px;
+    font-weight:bold;
+    font-family: "微软雅黑";
+}
+
+QWidget#wgt_cpu,
+QWidget#wgt_memory,
+QWidget#wgt_gpu {
+    background-color: #1A2431;
+    margin:0px 5px 0px 5px;
+    border-radius: 8px;
+    border:none;
+    min-width:90px;
+    max-height:50px;
+    min-height:50px;
+}
+
+QWidget#wgt_time {
+    margin: 5px;
+    background-color: #1A2431;
+    border-radius: 8px;
+    border:none;
+    padding:8px 0px 8px 0px;
+    min-width:90px;
+    min-height:40px;
+}
+
+QLabel#label_cpu_title,
+QLabel#label_memory_title,
+QLabel#label_gpu_title {
+    font-size: 14px;
+    max-height:14px;
+}
+
+QLabel#label_cpu,
+QLabel#label_memory,
+QLabel#label_gpu {
+    max-height:20px;
+    font-size: 16px;
+    color:#4EC9B0;
+    font-weight:bold;
+}
+
+QWidget#wgt_user {
+    min-height: 100px;
+    max-height: 100px;
+}
+
+QLabel#label_user_icon {
+    background-image:url(:/zyhn_app/style/img/user_icon.png);
+    background-repeat: no repeat;
+    background-position: center;
+    min-width:24px;
+    min-height:24px; 
+}

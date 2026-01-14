@@ -1,0 +1,14 @@
+QWidget#log_panel {
+    background-color: #2D3B4F;
+    border:none;
+    max-height:140px;
+}
+
+QTextBrowser#textBrowser_log {
+    background-color: #1A2431;
+    color: #4EC9B0;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+    font-family: "Arial";
+}

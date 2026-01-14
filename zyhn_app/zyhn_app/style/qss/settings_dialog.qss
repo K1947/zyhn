@@ -1,0 +1,26 @@
+QFrame#left_bar {
+    background-color: #253242;
+}
+
+QFrame#left_bar > QPushButton {
+    background-color: transparent;
+    min-width: 120px;
+    padding:16px 0px;
+    color: #E0E0E0;
+    font-size: 18px;
+    border: none;
+    font-family: "微软雅黑";
+}
+
+QFrame#left_bar > QPushButton:hover {
+    background-color: rgba(255, 255, 255, 20);
+}
+
+QFrame#left_bar > QPushButton:checked {
+    background-color: #29414D;
+    color: #4EC9B0;
+}
+
+QPushButton#btn_add_user {
+   max-width: 120px;
+}

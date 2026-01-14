@@ -1,0 +1,23 @@
+QFrame#frame_system_info {
+    background-color: #2D3B4F;
+    border-radius: 8px;
+}
+
+QLabel#label_logo {
+    min-width: 230px;
+    min-height: 52px;
+    max-height: 52px;
+    max-width: 230px;
+    border-image: url(:/zyhn_app/style/img/logo_big.png) 0 0 0 0 stretch stretch;
+    background-repeat: no-repeat;
+}
+
+QLabel#label_coypright {
+    min-width:16px;
+    min-height:16px;
+    max-height:16px;
+    max-width:16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image:url(:/zyhn_app/style/img/copyright_icon.png);
+}
