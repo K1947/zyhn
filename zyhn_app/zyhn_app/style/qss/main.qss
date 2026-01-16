@@ -1,0 +1,16 @@
+QMainWindow {
+    background-color: #1D2836;
+}
+
+QWidget#lef_panel {
+    max-width: 110px;
+    background-color: #253242;
+}
+
+QWidget#widget_content {
+    max-width:700px;
+}
+
+QFrame#frame_system_info {
+    background-color: #2D3B4F;
+}

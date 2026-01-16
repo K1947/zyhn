@@ -1,0 +1,65 @@
+
+QWidget#top_panel {
+    background-color: #253242 !important;
+    min-height: 48px !important;
+    border-bottom: 1px solid #3A495D !important;
+}
+
+QLabel#label_logo {
+    min-width: 170px;
+    min-height: 40px;
+    max-width: 170px;
+    max-height: 40px;
+    padding: 0px; 
+    margin: 0px;
+}
+
+QPushButton#btn_product, 
+QPushButton#btn_device, 
+QPushButton#btn_setting,
+QPushButton#btn_plugins,
+QPushButton#btn_about,
+QPushButton#btn_tool {
+    min-width: 60px;
+    color: #E0E0E0;
+    font-size: 18px;
+    border: none;
+    font-family: "微软雅黑";
+}
+
+QPushButton#btn_product:pressed, 
+QPushButton#btn_device:pressed, 
+QPushButton#btn_setting:pressed,
+QPushButton#btn_plugins:pressed,
+QPushButton#btn_about:pressed,
+QPushButton#btn_tool:pressed {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+QLabel#label_title {
+    font-size: 20px;
+    border: none;
+    font-weight: bold;
+}
+
+QPushButton#btn_exit {
+   background-image: url(:/zyhn_app/style/img/exit.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   min-width: 24px;
+   min-height: 24px;
+}
+
+QPushButton#btn_exit:pressed {
+    background-color:transparent;
+    min-width: 32px;
+    min-height: 32px;
+}
+
+QFrame#frame_runtime {
+   background-color: #1A2431;
+   margin:5px;
+   border-radius: 8px;
+   border:none;
+}
