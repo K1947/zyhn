@@ -1,0 +1,18 @@
+#ifndef PROPERTY_EDITOR_GLOBAL_H
+#define PROPERTY_EDITOR_GLOBAL_H
+
+
+#include <QtCore/qglobal.h>
+
+#ifndef PROP_EDITOR_BUILD_STATIC
+# if defined(PROPERTY_EDITOR_LIB)
+#  define PROP_EDITOR_EXPORT Q_DECL_EXPORT
+# else
+#  define PROP_EDITOR_EXPORT Q_DECL_IMPORT
+# endif
+#else
+# define PROP_EDITOR_EXPORT
+#endif
+
+#endif // !PROPERTY_EDITOR_GLOBAL_H
+
