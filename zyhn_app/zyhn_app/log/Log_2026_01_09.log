@@ -1,0 +1,187 @@
+[2026-01-09 13:09:23.970][WARN ][0x000002df29404770  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:09:25.687][WARN ][0x000002df29404770  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:09:25.726][WARN ][0x000002df29404770  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:09:26.986][WARN ][0x000002df29404770  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:09:27.098][WARN ][0x000002df29404770  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:09:29.533][WARN ][0x000002df29404770  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:09:36.996][WARN ][0x000002df29404770  ] >> QMetaObject::connectSlotsByName: No matching signal for on_btn_cancel_clicked() 
+[2026-01-09 13:10:02.091][WARN ][0x000002df29404770  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:15:59.174][WARN ][0x0000023de4ad5cf0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:15:59.345][WARN ][0x0000023de4ad5cf0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:15:59.354][WARN ][0x0000023de4ad5cf0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:15:59.604][WARN ][0x0000023de4ad5cf0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:15:59.646][WARN ][0x0000023de4ad5cf0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:16:00.341][WARN ][0x0000023de4ad5cf0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:16:00.671][WARN ][0x0000023de4ad5cf0  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:16:01.672][WARN ][0x0000023de4ad5cf0  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:16:04.446][WARN ][0x0000023de4ad5cf0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:18:29.595][WARN ][0x0000023de4ad5cf0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:22:22.853][WARN ][0x000001dfebaae810  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:22:23.033][WARN ][0x000001dfebaae810  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:22:23.042][WARN ][0x000001dfebaae810  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:22:23.289][WARN ][0x000001dfebaae810  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:22:23.297][WARN ][0x000001dfebaae810  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:22:24.003][WARN ][0x000001dfebaae810  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:22:24.401][WARN ][0x000001dfebaae810  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:22:27.242][WARN ][0x000001dfebaae810  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:28:26.037][WARN ][0x000002ba12e17b70  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:28:26.221][WARN ][0x000002ba12e17b70  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:28:26.230][WARN ][0x000002ba12e17b70  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:28:26.571][WARN ][0x000002ba12e17b70  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:28:26.578][WARN ][0x000002ba12e17b70  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:28:27.245][WARN ][0x000002ba12e17b70  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:28:27.623][WARN ][0x000002ba12e17b70  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:28:28.618][WARN ][0x000002ba12e17b70  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:28:30.836][WARN ][0x000002ba12e17b70  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:34:37.371][WARN ][0x000001877629ddb0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:34:37.572][WARN ][0x000001877629ddb0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:34:37.583][WARN ][0x000001877629ddb0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:34:37.853][WARN ][0x000001877629ddb0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:34:37.861][WARN ][0x000001877629ddb0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:34:38.804][WARN ][0x000001877629ddb0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:34:39.812][WARN ][0x000001877629ddb0  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:34:40.806][WARN ][0x000001877629ddb0  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:36:15.572][WARN ][0x000001877629ddb0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:50:03.776][WARN ][0x000001e3c3529110  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:50:03.947][WARN ][0x000001e3c3529110  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:50:03.957][WARN ][0x000001e3c3529110  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:50:04.319][WARN ][0x000001e3c3529110  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:50:04.330][WARN ][0x000001e3c3529110  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:50:05.023][WARN ][0x000001e3c3529110  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:50:13.908][WARN ][0x000001e3c3529110  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 13:53:23.814][WARN ][0x0000022ae13fa5c0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 13:53:23.978][WARN ][0x0000022ae13fa5c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:53:23.988][WARN ][0x0000022ae13fa5c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:53:24.382][WARN ][0x0000022ae13fa5c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 13:53:24.394][WARN ][0x0000022ae13fa5c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 13:53:25.079][WARN ][0x0000022ae13fa5c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 13:53:26.324][WARN ][0x0000022ae13fa5c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 13:53:28.725][WARN ][0x0000022ae13fa5c0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 14:08:27.761][WARN ][0x000002d1c055d320  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 14:08:27.952][WARN ][0x000002d1c055d320  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 14:08:27.962][WARN ][0x000002d1c055d320  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 14:08:28.258][WARN ][0x000002d1c055d320  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 14:08:28.266][WARN ][0x000002d1c055d320  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 14:08:28.949][WARN ][0x000002d1c055d320  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 14:10:32.633][WARN ][0x0000022c1bbbe7f0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 14:10:32.803][WARN ][0x0000022c1bbbe7f0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 14:10:32.814][WARN ][0x0000022c1bbbe7f0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 14:10:33.080][WARN ][0x0000022c1bbbe7f0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 14:10:33.091][WARN ][0x0000022c1bbbe7f0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 14:10:33.794][WARN ][0x0000022c1bbbe7f0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:51:00.760][WARN ][0x000001fd513e93e0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 15:51:00.925][WARN ][0x000001fd513e93e0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:51:00.935][WARN ][0x000001fd513e93e0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:51:01.254][WARN ][0x000001fd513e93e0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 15:51:01.262][WARN ][0x000001fd513e93e0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 15:51:01.916][WARN ][0x000001fd513e93e0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:52:15.917][WARN ][0x000001fd513e93e0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 15:54:49.720][WARN ][0x000001fd513e93e0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 15:56:16.103][WARN ][0x000001fd513e93e0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 15:58:13.509][WARN ][0x0000026b9894fdd0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 15:58:13.673][WARN ][0x0000026b9894fdd0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:58:13.684][WARN ][0x0000026b9894fdd0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:58:14.009][WARN ][0x0000026b9894fdd0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 15:58:14.015][WARN ][0x0000026b9894fdd0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 15:58:14.659][WARN ][0x0000026b9894fdd0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 15:58:15.416][WARN ][0x0000026b9894fdd0  ] >> QProcess::start: Process is already running 
+[2026-01-09 15:58:16.417][WARN ][0x0000026b9894fdd0  ] >> QProcess::start: Process is already running 
+[2026-01-09 15:58:18.009][WARN ][0x0000026b9894fdd0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 16:00:16.710][WARN ][0x000001b1b1b046a0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 16:00:16.872][WARN ][0x000001b1b1b046a0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 16:00:16.881][WARN ][0x000001b1b1b046a0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 16:00:17.223][WARN ][0x000001b1b1b046a0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 16:00:17.230][WARN ][0x000001b1b1b046a0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 16:00:17.867][WARN ][0x000001b1b1b046a0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 16:00:18.619][WARN ][0x000001b1b1b046a0  ] >> QProcess::start: Process is already running 
+[2026-01-09 16:00:19.621][WARN ][0x000001b1b1b046a0  ] >> QProcess::start: Process is already running 
+[2026-01-09 16:00:21.591][WARN ][0x000001b1b1b046a0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 16:05:59.412][WARN ][0x00000292491165c0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 16:05:59.571][WARN ][0x00000292491165c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 16:05:59.581][WARN ][0x00000292491165c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 16:05:59.922][WARN ][0x00000292491165c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 16:05:59.929][WARN ][0x00000292491165c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 16:06:00.571][WARN ][0x00000292491165c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 16:06:01.345][WARN ][0x00000292491165c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 16:06:02.343][WARN ][0x00000292491165c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 16:06:11.170][WARN ][0x00000292491165c0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 16:14:32.472][WARN ][0x00000292491165c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:04:38.595][WARN ][0x0000027cc36d02c0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:04:38.773][WARN ][0x0000027cc36d02c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:04:38.783][WARN ][0x0000027cc36d02c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:04:39.151][WARN ][0x0000027cc36d02c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:04:39.158][WARN ][0x0000027cc36d02c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:04:39.856][WARN ][0x0000027cc36d02c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:04:40.500][WARN ][0x0000027cc36d02c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:04:41.498][WARN ][0x0000027cc36d02c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:04:43.950][WARN ][0x0000027cc36d02c0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:06:16.215][WARN ][0x00000231ff8b8e10  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:06:16.381][WARN ][0x00000231ff8b8e10  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:06:16.390][WARN ][0x00000231ff8b8e10  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:06:16.726][WARN ][0x00000231ff8b8e10  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:06:16.731][WARN ][0x00000231ff8b8e10  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:06:17.372][WARN ][0x00000231ff8b8e10  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:06:18.120][WARN ][0x00000231ff8b8e10  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:06:19.127][WARN ][0x00000231ff8b8e10  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:06:21.492][WARN ][0x00000231ff8b8e10  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:17:18.942][WARN ][0x000002576b9afad0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:17:19.105][WARN ][0x000002576b9afad0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:17:19.116][WARN ][0x000002576b9afad0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:17:19.457][WARN ][0x000002576b9afad0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:17:19.463][WARN ][0x000002576b9afad0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:17:20.102][WARN ][0x000002576b9afad0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:17:20.859][WARN ][0x000002576b9afad0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:17:21.858][WARN ][0x000002576b9afad0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:17:23.290][WARN ][0x000002576b9afad0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:20:55.384][WARN ][0x0000020864186790  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:20:55.548][WARN ][0x0000020864186790  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:20:55.557][WARN ][0x0000020864186790  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:20:55.824][WARN ][0x0000020864186790  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:20:55.831][WARN ][0x0000020864186790  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:20:56.466][WARN ][0x0000020864186790  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:20:57.352][WARN ][0x0000020864186790  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:20:59.302][WARN ][0x0000020864186790  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:30:27.722][WARN ][0x0000027000b31db0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:30:27.884][WARN ][0x0000027000b31db0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:30:27.894][WARN ][0x0000027000b31db0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:30:28.242][WARN ][0x0000027000b31db0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:30:28.249][WARN ][0x0000027000b31db0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:30:28.883][WARN ][0x0000027000b31db0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:30:29.678][WARN ][0x0000027000b31db0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:30:30.677][WARN ][0x0000027000b31db0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:30:33.535][WARN ][0x0000027000b31db0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:34:39.061][WARN ][0x000001f60493b280  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:34:39.222][WARN ][0x000001f60493b280  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:34:39.233][WARN ][0x000001f60493b280  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:34:39.560][WARN ][0x000001f60493b280  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:34:39.569][WARN ][0x000001f60493b280  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:34:40.192][WARN ][0x000001f60493b280  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:34:41.003][WARN ][0x000001f60493b280  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:34:42.004][WARN ][0x000001f60493b280  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:34:44.795][WARN ][0x000001f60493b280  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:36:40.977][WARN ][0x0000016d56122ea0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:36:41.146][WARN ][0x0000016d56122ea0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:36:41.155][WARN ][0x0000016d56122ea0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:36:41.488][WARN ][0x0000016d56122ea0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:36:41.494][WARN ][0x0000016d56122ea0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:36:42.137][WARN ][0x0000016d56122ea0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:36:42.888][WARN ][0x0000016d56122ea0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:36:43.887][WARN ][0x0000016d56122ea0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:36:46.249][WARN ][0x0000016d56122ea0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:42:11.517][WARN ][0x0000019efe97a6f0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:42:11.678][WARN ][0x0000019efe97a6f0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:42:11.687][WARN ][0x0000019efe97a6f0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:42:11.949][WARN ][0x0000019efe97a6f0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:42:11.956][WARN ][0x0000019efe97a6f0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:42:12.586][WARN ][0x0000019efe97a6f0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:42:13.453][WARN ][0x0000019efe97a6f0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:42:15.725][WARN ][0x0000019efe97a6f0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-09 17:45:31.969][WARN ][0x0000029424c893c0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-09 17:45:32.138][WARN ][0x0000029424c893c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:45:32.147][WARN ][0x0000029424c893c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:45:32.474][WARN ][0x0000029424c893c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-09 17:45:32.481][WARN ][0x0000029424c893c0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-09 17:45:33.129][WARN ][0x0000029424c893c0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-09 17:45:33.824][WARN ][0x0000029424c893c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:45:34.826][WARN ][0x0000029424c893c0  ] >> QProcess::start: Process is already running 
+[2026-01-09 17:45:36.384][WARN ][0x0000029424c893c0  ] >> QFSFileEngine::open: No file name specified 

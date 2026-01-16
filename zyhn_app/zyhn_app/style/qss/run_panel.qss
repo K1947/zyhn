@@ -1,0 +1,88 @@
+QWidget#run_panel {
+    border-bottom: 1px solid #3A495D;
+}
+
+#run_panel > #cmb_product {
+    min-width: 220px;
+    font-size: 14px;
+    border: none;
+}
+
+#run_panel > #btn_run {
+    max-width: 70px;
+    max-height: 34px;
+    min-width: 70px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    font-family: "微软雅黑";
+    background-color: #3EC01E;
+    color: #FFFFFF;
+    qproperty-icon: url(:/zyhn_app/style/img/btn_run_icon.png);
+    qproperty-iconSize: 24px 24px;
+}
+
+#run_panel > #btn_run:pressed {
+    background-color: #3FD01F;
+}
+
+#run_panel > #btn_pause,
+#run_panel > #btn_stop,
+#run_panel > #btn_reset,
+#run_panel > #btn_clear_error {
+    max-width: 70px;
+    max-height: 34px;
+    min-width: 70px;
+    padding: 0px;
+    font-size: 14px;
+    max-height: 34px;
+}
+
+#run_panel > #btn_pause:pressed,
+#run_panel > #btn_stop:pressed,
+#run_panel > #btn_reset:pressed,
+#run_panel > #btn_clear_error:pressed {
+    background-color: #159c81;
+}
+
+#run_panel > #btn_pause {
+    qproperty-icon: url(:/zyhn_app/style/img/btn_pause_icon.png);
+    qproperty-iconSize: 24px 24px;
+}
+
+#run_panel > #btn_stop {
+    qproperty-icon: url(:/zyhn_app/style/img/btn_stop_icon.png);
+    qproperty-iconSize: 24px 24px;
+}
+
+#run_panel > #btn_clear_error {
+    qproperty-icon: url(:/zyhn_app/style/img/btn_clear_err_icon.png);
+    qproperty-iconSize: 24px 24px;
+}
+
+#run_panel > #btn_reset {
+    qproperty-icon: url(:/zyhn_app/style/img/btn_reset_icon.png);
+    qproperty-iconSize: 24px 24px;
+    width:70px;
+}
+
+#run_panel > #wgt_led_1 {
+    min-width:40px;
+    min-height:40px;
+    background-color: rgba(97, 224, 84, 40);
+    border-radius: 20px;
+}
+
+#run_panel > #wgt_led_2 {
+    min-width:40px;
+    min-height:40px;
+    background-color: rgba(241, 192, 36, 40);
+    border-radius: 20px;
+}
+
+#run_panel > #wgt_led_3 {
+    min-width:40px;
+    min-height:40px;
+    background-color: rgba(255, 77, 79, 40);
+    border-radius: 20px;
+}

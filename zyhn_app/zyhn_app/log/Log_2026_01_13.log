@@ -1,0 +1,118 @@
+[2026-01-13 10:22:38.949][WARN ][0x000001ea7ec936d0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 10:22:39.617][WARN ][0x000001ea7ec936d0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:22:39.627][WARN ][0x000001ea7ec936d0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:22:40.384][WARN ][0x000001ea7ec936d0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 10:22:40.412][WARN ][0x000001ea7ec936d0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 10:22:40.437][WARN ][0x000001ea7ec936d0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 10:22:40.464][WARN ][0x000001ea7ec936d0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 10:22:41.123][WARN ][0x000001ea7ec936d0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:22:41.826][WARN ][0x000001ea7ec936d0  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:22:44.573][WARN ][0x000001ea7ec936d0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:22:44.575][WARN ][0x000001ea7ec936d0  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260112192951926") 
+[2026-01-13 10:23:13.209][WARN ][0x000001ea7ec936d0  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:25:27.766][WARN ][0x000001ea7ec936d0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:25:27.767][WARN ][0x000001ea7ec936d0  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113102244144") 
+[2026-01-13 10:25:52.955][WARN ][0x000001ea7ec936d0  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:26:20.218][WARN ][0x000001ea7ec936d0  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:26:20.219][WARN ][0x000001ea7ec936d0  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113102527350") 
+[2026-01-13 10:26:53.888][WARN ][0x000001ea7ec936d0  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:31:29.072][WARN ][0x00000192ca8c0740  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 10:31:29.205][WARN ][0x00000192ca8c0740  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:31:29.215][WARN ][0x00000192ca8c0740  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:31:29.435][WARN ][0x00000192ca8c0740  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 10:31:29.439][WARN ][0x00000192ca8c0740  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 10:31:29.442][WARN ][0x00000192ca8c0740  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 10:31:29.445][WARN ][0x00000192ca8c0740  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 10:31:30.060][WARN ][0x00000192ca8c0740  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:31:30.923][WARN ][0x00000192ca8c0740  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:31:33.896][WARN ][0x00000192ca8c0740  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:31:33.898][WARN ][0x00000192ca8c0740  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113102619802") 
+[2026-01-13 10:35:57.591][WARN ][0x000001595d846670  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 10:35:57.718][WARN ][0x000001595d846670  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:35:57.728][WARN ][0x000001595d846670  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:35:57.997][WARN ][0x000001595d846670  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 10:35:58.001][WARN ][0x000001595d846670  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 10:35:58.003][WARN ][0x000001595d846670  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 10:35:58.007][WARN ][0x000001595d846670  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 10:35:58.612][WARN ][0x000001595d846670  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:35:59.514][WARN ][0x000001595d846670  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:36:01.518][WARN ][0x000001595d846670  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:36:01.519][WARN ][0x000001595d846670  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113102619802") 
+[2026-01-13 10:36:34.298][WARN ][0x000001595d846670  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:38:09.067][WARN ][0x000001970cf97c60  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 10:38:09.194][WARN ][0x000001970cf97c60  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:38:09.203][WARN ][0x000001970cf97c60  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:38:09.478][WARN ][0x000001970cf97c60  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 10:38:09.481][WARN ][0x000001970cf97c60  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 10:38:09.484][WARN ][0x000001970cf97c60  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 10:38:09.486][WARN ][0x000001970cf97c60  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 10:38:10.087][WARN ][0x000001970cf97c60  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 10:38:10.993][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:38:13.133][WARN ][0x000001970cf97c60  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:38:13.134][WARN ][0x000001970cf97c60  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113103601103") 
+[2026-01-13 10:38:49.732][WARN ][0x000001970cf97c60  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:39:05.083][WARN ][0x000001970cf97c60  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113103812720") 
+[2026-01-13 10:39:28.107][WARN ][0x000001970cf97c60  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:40:06.464][WARN ][0x000001970cf97c60  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113103904650") 
+[2026-01-13 10:40:24.333][WARN ][0x000001970cf97c60  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:40:57.151][WARN ][0x000001970cf97c60  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:40:57.153][WARN ][0x000001970cf97c60  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113104006040") 
+[2026-01-13 10:41:18.562][WARN ][0x000001970cf97c60  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:43:59.525][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:15.581][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:16.505][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:17.508][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:18.507][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:19.501][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:20.500][WARN ][0x000001970cf97c60  ] >> QProcess::start: Process is already running 
+[2026-01-13 10:44:52.881][WARN ][0x000001970cf97c60  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:44:52.882][WARN ][0x000001970cf97c60  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113104056724") 
+[2026-01-13 10:45:03.947][WARN ][0x000001970cf97c60  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 10:45:06.691][WARN ][0x000001970cf97c60  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 10:45:06.693][WARN ][0x000001970cf97c60  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113104452475") 
+[2026-01-13 10:45:58.137][WARN ][0x000001970cf97c60  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 11:10:34.873][WARN ][0x000001994f02c070  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 11:10:35.004][WARN ][0x000001994f02c070  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 11:10:35.014][WARN ][0x000001994f02c070  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 11:10:35.294][WARN ][0x000001994f02c070  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 11:10:35.296][WARN ][0x000001994f02c070  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 11:10:35.298][WARN ][0x000001994f02c070  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 11:10:35.300][WARN ][0x000001994f02c070  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 11:10:35.914][WARN ][0x000001994f02c070  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 11:10:39.405][WARN ][0x000001994f02c070  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 11:10:39.406][WARN ][0x000001994f02c070  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113104506275") 
+[2026-01-13 11:11:55.566][WARN ][0x000001994f02c070  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 16:45:18.886][WARN ][0x0000022cd6d85dc0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 16:45:20.069][WARN ][0x0000022cd6d85dc0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:45:20.078][WARN ][0x0000022cd6d85dc0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:45:21.164][WARN ][0x0000022cd6d85dc0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 16:45:21.211][WARN ][0x0000022cd6d85dc0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 16:45:21.281][WARN ][0x0000022cd6d85dc0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 16:45:21.358][WARN ][0x0000022cd6d85dc0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 16:45:22.005][WARN ][0x0000022cd6d85dc0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:45:29.164][WARN ][0x0000022cd6d85dc0  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113111038983") 
+[2026-01-13 16:46:33.251][WARN ][0x0000022cd6d85dc0  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 16:47:23.702][WARN ][0x0000022cd6d85dc0  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113164528721") 
+[2026-01-13 16:48:53.700][WARN ][0x0000024ac5b687a0  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 16:48:53.831][WARN ][0x0000024ac5b687a0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:48:53.840][WARN ][0x0000024ac5b687a0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:48:54.051][WARN ][0x0000024ac5b687a0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 16:48:54.054][WARN ][0x0000024ac5b687a0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 16:48:54.057][WARN ][0x0000024ac5b687a0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 16:48:54.060][WARN ][0x0000024ac5b687a0  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 16:48:54.648][WARN ][0x0000024ac5b687a0  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:48:55.670][WARN ][0x0000024ac5b687a0  ] >> QProcess::start: Process is already running 
+[2026-01-13 16:48:58.949][WARN ][0x0000024ac5b687a0  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113164528721") 
+[2026-01-13 16:49:16.598][WARN ][0x0000024ac5b687a0  ] >> Algorithm not found in registry: "imagegrab" 
+[2026-01-13 16:49:46.126][WARN ][0x000002641d14bf50  ] >> QObject::connect: signal not found in SpcDataManager 
+[2026-01-13 16:49:46.253][WARN ][0x000002641d14bf50  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:49:46.262][WARN ][0x000002641d14bf50  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:49:46.472][WARN ][0x000002641d14bf50  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_class_oritation.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_class_oritation.dll: 找不到指定的模块。" 
+[2026-01-13 16:49:46.475][WARN ][0x000002641d14bf50  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_read_code.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_read_code.dll: 找不到指定的模块。" 
+[2026-01-13 16:49:46.477][WARN ][0x000002641d14bf50  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_wide_measure.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_wide_measure.dll: 找不到指定的模块。" 
+[2026-01-13 16:49:46.481][WARN ][0x000002641d14bf50  ] >> Invalid plugin file: "D:/work_project/vision_detection/x64/Debug/algorithm/vision_core_yolo_segment.dll" Error: "Cannot load library D:\\work_project\\vision_detection\\x64\\Debug\\algorithm\\vision_core_yolo_segment.dll: 找不到指定的模块。" 
+[2026-01-13 16:49:47.074][WARN ][0x000002641d14bf50  ] >> QCssParser::parseHexColor: Unknown color name '#transparent' 
+[2026-01-13 16:49:48.049][WARN ][0x000002641d14bf50  ] >> QProcess::start: Process is already running 
+[2026-01-13 16:49:51.140][WARN ][0x000002641d14bf50  ] >> QFSFileEngine::open: No file name specified 
+[2026-01-13 16:49:51.142][WARN ][0x000002641d14bf50  ] >> Invalid enum value for "image_source" : QVariant(QString, "imagegrab_20260113164858541") 
+[2026-01-13 16:50:30.138][WARN ][0x000002641d14bf50  ] >> Algorithm not found in registry: "imagegrab" 

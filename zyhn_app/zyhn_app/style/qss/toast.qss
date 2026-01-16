@@ -1,0 +1,125 @@
+/* Toast 组件样式 */
+
+/* 基础Toast样式 */
+ToastWidget {
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    min-width: 200px;
+    max-width: 400px;
+}
+
+/* 信息类型Toast */
+ToastWidget[type="info"] {
+    background-color: #e3f2fd;
+    border-color: #2196f3;
+}
+
+ToastWidget[type="info"] QLabel[class="icon"] {
+    color: #2196f3;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ToastWidget[type="info"] QLabel[class="text"] {
+    color: #1976d2;
+}
+
+/* 成功类型Toast */
+ToastWidget[type="success"] {
+    background-color: #e8f5e8;
+    border-color: #4caf50;
+}
+
+ToastWidget[type="success"] QLabel[class="icon"] {
+    color: #4caf50;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ToastWidget[type="success"] QLabel[class="text"] {
+    color: #388e3c;
+}
+
+/* 警告类型Toast */
+ToastWidget[type="warning"] {
+    background-color: #fff3e0;
+    border-color: #ff9800;
+}
+
+ToastWidget[type="warning"] QLabel[class="icon"] {
+    color: #ff9800;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ToastWidget[type="warning"] QLabel[class="text"] {
+    color: #f57c00;
+}
+
+/* 错误类型Toast */
+ToastWidget[type="error"] {
+    background-color: #ffebee;
+    border-color: #f44336;
+}
+
+ToastWidget[type="error"] QLabel[class="icon"] {
+    color: #f44336;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ToastWidget[type="error"] QLabel[class="text"] {
+    color: #d32f2f;
+}
+
+/* 图标样式 */
+QLabel[class="icon"] {
+    font-size: 18px;
+    font-weight: bold;
+    min-width: 24px;
+    max-width: 24px;
+    min-height: 24px;
+    max-height: 24px;
+}
+
+/* 文本样式 */
+QLabel[class="text"] {
+    font-size: 14px;
+    color: #333333;
+    word-wrap: break-word;
+    max-width: 300px;
+}
+
+/* 深色主题支持 */
+@media (prefers-color-scheme: dark) {
+    ToastWidget {
+        background-color: #2d2d2d;
+        border-color: #404040;
+        color: #ffffff;
+    }
+    
+    ToastWidget[type="info"] {
+        background-color: #1a237e;
+        border-color: #3f51b5;
+    }
+    
+    ToastWidget[type="success"] {
+        background-color: #1b5e20;
+        border-color: #4caf50;
+    }
+    
+    ToastWidget[type="warning"] {
+        background-color: #e65100;
+        border-color: #ff9800;
+    }
+    
+    ToastWidget[type="error"] {
+        background-color: #b71c1c;
+        border-color: #f44336;
+    }
+    
+    QLabel[class="text"] {
+        color: #ffffff;
+    }
+}
