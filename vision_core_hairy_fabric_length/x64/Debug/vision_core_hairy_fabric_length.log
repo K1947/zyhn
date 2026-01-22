@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (D:/Qt/6.5.3/msvc2019_64/bin/qmake)
+   Qt: 6.5.3
+  moc hairy_fabric_plugin.h
+  moc hairy_fabric_view.h
+  hairy_fabric_algorithm.cpp
+  hairy_fabric_plugin.cpp
+  hairy_fabric_view.cpp
+D:\work_project\vision_detection\vision_core_hairy_fabric_length\hairy_fabric_algorithm.cpp(39,38): warning C4101: “e”: 未引用的局部变量
+  moc_hairy_fabric_plugin.cpp
+  moc_hairy_fabric_view.cpp
+    正在创建库 D:\work_project\vision_detection\x64\Debug\algorithm\vision_core_hairy_fabric_length.lib 和对象 D:\work_project\vision_detection\x64\Debug\algorithm\vision_core_hairy_fabric_length.exp
+  vision_core_hairy_fabric_length.vcxproj -> D:\work_project\vision_detection\x64\Debug\algorithm\vision_core_hairy_fabric_length.dll

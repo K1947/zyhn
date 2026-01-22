@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (D:/Qt/6.5.3/msvc2019_64/bin/qmake)
+   Qt: 6.5.3
+  moc pwp_length_plugin.h
+  moc pwp_length_view.h
+  pwp_length_algorithm.cpp
+  pwp_length_plugin.cpp
+  pwp_length_view.cpp
+  moc_pwp_length_plugin.cpp
+  moc_pwp_length_view.cpp
+    正在创建库 D:\work_project\vision_detection\x64\Debug\algorithm\vision_core_pwp_length.lib 和对象 D:\work_project\vision_detection\x64\Debug\algorithm\vision_core_pwp_length.exp
+  vision_core_pwp_length.vcxproj -> D:\work_project\vision_detection\x64\Debug\algorithm\vision_core_pwp_length.dll

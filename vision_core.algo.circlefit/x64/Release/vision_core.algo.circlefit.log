@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+   Qt/MSBuild: 3.4.1.0
+  Reading Qt configuration (D:/Qt/6.5.3/msvc2019_64/bin/qmake)
+   Qt: 6.5.3
+  moc circle_fitter_view.h
+  moc circlefit_plugin.h
+  circle_fitter_view.cpp
+  circlefit_algorithm.cpp
+  circlefit_plugin.cpp
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(143,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(143,17): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(262,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(262,17): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(295,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(295,17): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(390,38): warning C4101: “e”: 未引用的局部变量
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(424,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(424,17): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(519,38): warning C4101: “e”: 未引用的局部变量
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(632,33): warning C4305: “-=”: 从“double”到“float”截断
+D:\work\zyhn_vision\vision_core.algo.circlefit\circlefit_algorithm.cpp(635,27): warning C4305: “-=”: 从“double”到“float”截断
+  moc_circle_fitter_view.cpp
+  moc_circlefit_plugin.cpp
+    正在创建库 D:\work\zyhn_vision\x64\Release\algorithm\vision_core_algo_circlefit.lib 和对象 D:\work\zyhn_vision\x64\Release\algorithm\vision_core_algo_circlefit.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7678 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  vision_core.algo.circlefit.vcxproj -> D:\work\zyhn_vision\x64\Release\algorithm\vision_core_algo_circlefit.dll
